@@ -2,6 +2,18 @@
 
 - I’m interested in Game Data Analysis
 
+## Education
+- Bachelor of Arts in Applied Statistics
+
+## Training
+- Code States AI Bootcamp
+
+## Skills
+- Python
+  - Main programming language
+- SQL
+- Linux
+- Docker
 <!--
 **ippo252525/ippo252525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
