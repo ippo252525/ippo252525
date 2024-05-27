@@ -1,5 +1,4 @@
 ## Interested In
-- 🎮 Game
 - 📊 Data analysis
 - 🛠️ Data engineering
 - 🌐 Improving data accessibility
