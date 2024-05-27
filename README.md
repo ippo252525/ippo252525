@@ -12,7 +12,7 @@
 
 ## Experienced With
 - 🐍 Python (Main programming language)
-  - Data visualization using Plotly
+  - Data visualization using <span style="color:red">Plotly</span>
   - Developing machine learning models using scikit-learn
   - Database manipulation using DB API such as psycopg2 and pymongo
   - Data manipulation and analysis using libraries such as pandas and NumPy
